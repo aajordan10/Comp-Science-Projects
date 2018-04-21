@@ -1,11 +1,4 @@
-/* Aaron Jordan
- * My planning time was not too long, maybe about 30 minutes and my coding time 
- * was about an hour to implement the new concepts but as far as reading the text
- * file and formatting it, that didn't take too long for me also since program 7
- * was based on that. I can't really account for bug fixing time since I mostly just
- * tinkered with the code as I went along until it worked.
- */
-
+// Aaron Jordan
 import java.io.File;
 import java.io.IOException;
 import java.util.*;
